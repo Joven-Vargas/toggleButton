@@ -49,8 +49,6 @@ public class ToggleButton extends javax.swing.JFrame {
         tbtnAgua.setText("Agua");
         getContentPane().add(tbtnAgua);
         tbtnAgua.setBounds(130, 140, 111, 23);
-
-        txtAlimentacion.setText("jTextField1");
         getContentPane().add(txtAlimentacion);
         txtAlimentacion.setBounds(250, 60, 290, 50);
 
